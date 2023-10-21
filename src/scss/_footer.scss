@@ -1,0 +1,162 @@
+.footer {
+  width: 100%;
+  background-color: black;
+  position: relative;
+  .footerContent {
+    display: flex;
+    flex-direction: column;
+    .footerTop {
+      display: flex;
+      align-items: center;
+      height: 335px;
+      .footerBgLeft {
+        width: 50%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background-image: url("../img/footer-ring-left.webp");
+        background-position: left;
+        background-repeat: no-repeat;
+        .containerFoot {
+          width: 100%;
+          height: 250px;
+          margin-left: 190px;
+          display: flex;
+          align-items: flex-start;
+          justify-content: space-between;
+          .footerCard {
+            width: 50%;
+            .footerLogo {
+              width: 123px;
+              height: 33px;
+              text-align: left;
+              img {
+                width: 100%;
+                height: 100%;
+              }
+            }
+            .cardTitle {
+              color: #fff;
+              font-size: 26px;
+              margin: 20px 30px 15px 0;
+              font-weight: 500;
+            }
+            .cardInfo {
+              font-size: 14px;
+              color: #fff;
+            }
+            .footerList {
+              color: #fff;
+              display: flex;
+              justify-content: center;
+              align-items: flex-start;
+              flex-direction: column;
+              gap: 10px;
+              .footerListItem {
+                a {
+                  color: #fff;
+                  font-size: 14px;
+                }
+              }
+            }
+          }
+          .footerCard:nth-child(1) {
+            width: 65%;
+          }
+          .footerCard:nth-child(2) {
+            width: 35%;
+            padding-left: 96px;
+          }
+        }
+      }
+      .footerBgRight {
+        width: 50%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        background-image: url("../img/footer-ring-right.webp");
+        background-position: right;
+        background-repeat: no-repeat;
+        .containerFoot {
+          width: 100%;
+          height: 250px;
+          margin-right: 180px;
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          .footerCard {
+            width: 40%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            .footerList {
+              color: #fff;
+              display: flex;
+              justify-content: flex-start;
+              align-items: flex-start;
+              flex-direction: column;
+              gap: 10px;
+              padding-left: 96px;
+              .footerListItem {
+                a {
+                  color: #fff;
+                  font-size: 14px;
+                }
+              }
+            }
+          }
+          .footerCard {
+            width: 50%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            color: #fff;
+            gap: 20px;
+            .socialTitle {
+              width: 55%;
+            }
+            .socialListFooter {
+              width: 100%;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              gap: 10px;
+              .socialListItem {
+                padding: 8px;
+                border-radius: 10px;
+                background-color: rgb(255, 255, 255);
+                span {
+                  display: flex;
+                  align-items: center;
+                  justify-content: center;
+                  a {
+                    i {
+                      color: #000;
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    .footerBottom {
+      position: absolute;
+      left: 12.5%;
+      bottom: 40px;
+      width: 75.5%;
+      margin: 0 auto;
+      text-align: left;
+
+      a {
+        color: #fff;
+        font-size: 14px;
+      }
+    }
+  }
+}

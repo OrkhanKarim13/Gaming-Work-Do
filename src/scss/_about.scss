@@ -1,0 +1,190 @@
+.about {
+  width: 100%;
+
+  .aboutContent {
+    width: 100%;
+
+    background-color: black;
+
+    .contentColum {
+      width: 75.5%;
+      height: 500px;
+      padding: 100px 0;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      gap: 25px;
+      .back {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        .circle {
+          width: 30px;
+          height: 30px;
+          border-radius: 50%;
+          background-color: transparent;
+          border: 1px solid white;
+          color: #fff;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          i {
+            font-size: 12px;
+          }
+        }
+        a {
+          color: #fff;
+          font-size: 13px;
+          font-weight: 500;
+        }
+      }
+      .aboutTitle {
+        font-size: 41px;
+        font-weight: 600;
+        color: #0098ff;
+      }
+      .aboutInfo {
+        width: 585px;
+        font-size: 14px;
+        color: #fff;
+      }
+    }
+  }
+  .container {
+    width: 76%;
+    margin: 0 auto;
+    .reality {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 70px 0;
+      gap: 40px;
+      .realityTitle {
+        width: 100%;
+        font-size: 41px;
+        color: #838383;
+        font-weight: 500;
+        text-align: left;
+      }
+      .realityInfo {
+        width: 100%;
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        gap: 30px;
+        .realityLeft {
+          width: 48%;
+          font-size: 14px;
+          color: #838383;
+        }
+        .realityRight {
+          width: 48%;
+          font-size: 14px;
+          color: #838383;
+        }
+      }
+    }
+    .adventures {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 50px;
+      .adventuresTitle {
+        width: 100%;
+        text-align: center;
+        color: #838383;
+        font-size: 41px;
+        font-weight: 500;
+      }
+      .adventuresContent {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        gap: 30px;
+        .adventuresInfo {
+          width: 50%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          flex-direction: column;
+          gap: 40px;
+          h2 {
+            width: 100%;
+            color: #838383;
+            font-size: 26px;
+            font-weight: 600;
+            text-align: left;
+          }
+          p {
+            color: #838383;
+            font-size: 14px;
+          }
+        }
+        .adventuresImage {
+          width: 50%;
+        }
+      }
+      .aboutServices {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        .serviceTitle {
+          width: 100%;
+          font-size: 41px;
+          color: #838383;
+          font-weight: 500;
+          text-align: center;
+        }
+        .serviceInfo {
+          width: 78%;
+          font-size: 14px;
+          color: #838383;
+          text-align: center;
+          margin: 24px auto 0 auto;
+        }
+        .serviceCards {
+          width: 100%;
+          display: flex;
+          align-items: center;
+          gap: 30px;
+          margin: 50px 0;
+          .serviceCard {
+            width: 32%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            padding: 14px;
+            border: 1px solid #0098ff;
+            gap: 15px;
+            .cardTitle {
+              width: 100%;
+              display: flex;
+              justify-content: space-between;
+              align-items: center;
+              h3 {
+                font-size: 26px;
+                color: #838383;
+                font-weight: 500;
+              }
+            }
+            .cardInfo {
+              width: 100%;
+              p {
+                font-size: 14px;
+                color: #838383;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

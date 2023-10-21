@@ -1,0 +1,127 @@
+.home {
+  width: 100%;
+  background-color: black;
+  .homeContent {
+    width: 100%;
+    display: flex;
+    .homeLeft {
+      width: 20%;
+      height: 800px;
+      display: flex;
+      align-items: flex-end;
+      padding-left: 50px;
+      background-color: black;
+      background-repeat: no-repeat;
+      background-image: url("../img/Half-bluthooth.avif");
+    }
+    .homeMiddle {
+      width: 65%;
+      height: 600px;
+      display: flex;
+      justify-content: flex-end;
+      background-color: black;
+      background-image: url("../img/design-circle-1.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position-x: center;
+    }
+    .homeRight {
+      width: 15%;
+      background-color: black;
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-image: url("../img/design-circle-2.png");
+    }
+  }
+  .homeHeader {
+    display: flex;
+    position: absolute;
+    left: 12.5%;
+    top: 10%;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+    .collection {
+      display: flex;
+      background-color: #12103e;
+      border-radius: 25px;
+      padding: 15px 20px;
+      gap: 5px;
+      .featured {
+        a {
+          color: #fff;
+          background: linear-gradient(
+            90deg,
+            #0098ff 0%,
+            rgba(0, 152, 255, 0) 100%
+          );
+          border-radius: 15px;
+          padding: 5px 10px;
+          font-size: 14px;
+        }
+      }
+      .newFeatured {
+        margin-left: 5px;
+        a {
+          font-size: 14px;
+          color: #fff;
+        }
+      }
+      .collector {
+        a {
+          font-size: 14px;
+          color: #007aff;
+        }
+      }
+    }
+    .homeTitle {
+      width: 80%;
+      color: #fff;
+      font-size: 63px;
+      font-weight: 600;
+      line-height: 70.07px;
+    }
+    .homeInfo {
+      color: #838383;
+      font-size: 14px;
+      width: 50%;
+      margin-bottom: 20px;
+    }
+    .buttons {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 14px;
+      .showProducts {
+        a {
+          color: #fff;
+          padding: 12px 40px;
+          background: linear-gradient(250deg, #0098ff 0%, #7b35c8 100%);
+          border-radius: 0 20px;
+          i {
+            color: #fff;
+            font-size: 12px;
+          }
+        }
+      }
+      .showCollections {
+        a {
+          padding: 12px 40px;
+          border-radius: 0 20px;
+          background-color: transparent;
+          border: 1px solid #838383;
+          color: #838383;
+          i {
+            color: #838383;
+            font-size: 12px;
+          }
+        }
+      }
+    }
+    .bestSeller {
+      font-size: 41px;
+      color: #fff;
+      padding-top: 20px;
+    }
+  }
+}
