@@ -1,0 +1,845 @@
+{
+    "products":[        
+        {
+            "Gaming_Chairs":[
+                {
+                    "id":"a1",
+                    "title": "Colossus Ergonomic Gaming Office Chair",
+                    "brand": "Kepler Brooks",
+                    "bestseller": true,
+                    "extra_add": true,
+                    "isNew": true,
+                    "in_stock": true,
+                    "product_type": "Chair",
+                    "category": "Gaming Chairs",
+                    "cont_down": true,
+                    "review": true,
+                    "sku_number": "1140550231142",
+                    "about_product": "ERGONOMICALLY DESIGNED FOR HARDCORE GAMING : From its unique contours and angled seat edges, to its fully adjustable recline, tilt, and height, the Dr Luxur...",
+                    "images": {
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/1_50862e3f-4e56-4d7c-9220-04cde28aca6d_258x258.png?v=1671448019",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/11_906652e6-c217-48e1-81a5-72556e789552_258x258.png?v=1671448017",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/6215622cv11d-removebg-preview_600x600.png?v=1671448018",
+                        "main_img4": "https://gaming-workdo.myshopify.com/cdn/shop/products/6215622cv14d-removebg-preview_600x600.png?v=1671448018",
+                        "main_img5": "https://gaming-workdo.myshopify.com/cdn/shop/products/6215622_rd-removebg-preview_600x600.png?v=1671448017",
+                        "main_img6": "https://gaming-workdo.myshopify.com/cdn/shop/products/6500788cv11d-removebg-preview_600x600.png?v=1671448017",
+                        "main_img7": "https://gaming-workdo.myshopify.com/cdn/shop/products/6500788cv12d-removebg-preview_600x600.png?v=1671448017",
+                        "main_img8": "https://gaming-workdo.myshopify.com/cdn/shop/products/6500788_rd-removebg-preview_600x600.png?v=1671448017"
+                    },
+                    "search_title": "Color",
+                    "options":{
+                        "option1": "White",
+                        "option2": "Green"
+                    },
+                    "prices":{
+                        "price1": "356.00",
+                        "price2": "240.00"
+                    },
+                    "prv_prices":{
+                        "prv_price1": "500.00",
+                        "prv_price2": "430.00"
+                    }
+                },
+
+                {
+                    "id":"a22",
+                    "title": "Gaming Chair for Gamers with Lumbar",
+                    "brand": "Kepler Brooks",
+                    "bestseller": false,
+                    "extra_add": false,
+                    "isNew": false,
+                    "in_stock": true,
+                    "product_type": "Chair",
+                    "category": "Gaming Chairs",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": "9140570231152",
+                    "about_product": "Have back issues or don’t want to develop them? This adjustable office chair includes Cushion Foam Padded support and a recline feature that allows you...",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/1_9b8ef664-ed2d-4dce-bcb1-02b1a4dc555b_600x600.png?v=1671448341",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/6483039cv11d-removebg-preview_600x600.png?v=1671448340",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/6215622cv11d-removebg-preview_600x600.png?v=1671448018",
+                        "main_img4": "https://gaming-workdo.myshopify.com/cdn/shop/products/6483039ld-removebg-preview_600x600.png?v=1671448340",
+                        "main_img5": "https://gaming-workdo.myshopify.com/cdn/shop/products/6483039_rd-removebg-preview_600x600.png?v=1671448341"
+                    },
+                    "search_title": "Size",
+                    "options":{
+                        "option1": "50D x 66W x 131H",
+                        "option2": "52D x 66W x 131H"
+                    },
+                    "prices":{
+                        "price1": "560.00",
+                        "price2": "580.00"
+                    },
+                    "prv_prices":{
+                        "prv_price1": "700.00",
+                        "prv_price2": "730.00"
+                    }
+                },
+        
+                {
+                    "id":"a23",
+                    "title": "Multi-Functional Ergonomic Gaming Chair",
+                    "brand": "Kepler Brooks",
+                    "bestseller": false,
+                    "extra_add": false,
+                    "isNew": false,
+                    "in_stock": false,
+                    "product_type": "Chair",
+                    "category": "Gaming Chairs",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": "9140570231124",
+                    "about_product": "ERGONOMIC DESIGN: Feel less fatigued over long periods with the lumbar curve that gently supports your lower back and encourages sitting in a neutral position....",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/1_0122603b-f3a8-4182-b26c-08ab01e5c511_600x600.png?v=1671448117",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/2_ebad13af-f82d-4d0c-abd4-8b1929a39297_600x600.png?v=1671448118",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/3_72ae925d-2e9d-46ee-9bc9-9cf064581df3_600x600.png?v=1671448117",
+                        "main_img4": "https://gaming-workdo.myshopify.com/cdn/shop/products/4_5b111a0c-a21b-4ca8-a4fa-0dcb730d5f7f_600x600.png?v=1671448118",
+                        "main_img5": "https://gaming-workdo.myshopify.com/cdn/shop/products/5_600x600.png?v=1671448117"
+                    },
+                    "search_title": "Color",
+                    "options":{
+                        "option1": "Black"
+                    },
+                    "prices":{
+                        "price1": "560.00"
+                    }
+                },
+        
+                {
+                    "id":"a24",
+                    "title": "Kepler Brooks Gaming Chair",
+                    "brand": "Kepler Brooks",
+                    "bestseller": false,
+                    "extra_add": true,
+                    "isNew": false,
+                    "in_stock": true,
+                    "product_type": "Chair",
+                    "category": "Gaming Chairs",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": " 9140570231171",
+                    "about_product": "Premium Material: PU Leather Upholstery made with High density foam and added seat cushion, more comfort and long-time use; High Tensile steel frame, more sturdy...",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/1_56c58a53-f8f7-4fc0-9b92-574e8696ff4d_600x600.png?v=1671447862",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/3_600x600.png?v=1671447863",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/2_600x600.png?v=1671447863",
+                        "main_img4": "https://gaming-workdo.myshopify.com/cdn/shop/products/4_600x600.png?v=1671447863"
+                    },
+                    "search_title": "Size",
+                    "options":{
+                        "option1": "52D x 66W x 131H",
+                        "option2": "50D x 66W x 131H"
+                    },
+                    "prices":{
+                        "price1": "800.00",
+                        "price2": "720.00"
+                    }
+                }
+            ]
+        },
+            
+        {
+            "Power_Supplies":[
+                {
+                    "id":"a2",
+                    "title": "Electrobot Xtreme Gaming Series PC",
+                    "brand": "Electrobot",
+                    "bestseller": true,
+                    "extra_add": false,
+                    "isNew": false,
+                    "in_stock": true,
+                    "product_type": "Game PCs",
+                    "category": "Power Supplies",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": "9140570231161",
+                    "about_product": "Multiple connectivity options including HDMI, USB ports & RGB fans let you connect a variety of peripherals easily. Wi-Fi Ready – Connect to the internet...",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/gx6-back-1000-removebg-preview_600x600.png?v=1671451565",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/gx6-side-open-1000-removebg-preview_600x600.png?v=1671451566",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/mx5-angle-1000-removebg-preview_600x600.png?v=1671451565",
+                        "main_img4": "https://gaming-workdo.myshopify.com/cdn/shop/products/gx6-front-angle-1000__1_-removebg-preview_600x600.png?v=1671451565"
+                    },
+                    "search_title": "Size",
+                    "options":{
+                        "option1": "128 GB",
+                        "option2": "256 GB"
+                    },
+                    "prices":{
+                        "price1": "468.00",
+                        "price2": "500.00"
+                    }
+                },
+
+                {
+                    "id":"a12",
+                    "title": "Raptor Gameing Z95",
+                    "brand": "Electrobot",
+                    "bestseller": false,
+                    "extra_add": false,
+                    "isNew": false,
+                    "in_stock": true,
+                    "product_type": "Game PCs",
+                    "category": "Power Supplies",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": "9140560231128",
+                    "about_product": "Multiple connectivity options including HDMI, USB ports & RGB fans let you connect a variety of peripherals easily. Wi-Fi Ready – Connect to the internet...",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/nx2-backside-handleup-1000-removebg-preview_600x600.png?v=1671452014",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/nx2-front-1000-removebg-preview_600x600.png?v=1671452014",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/nx2-side-halfopen-handle-1000-removebg-preview_600x600.png?v=1671452014",
+                        "main_img4": "https://gaming-workdo.myshopify.com/cdn/shop/products/nx2-solid-1000-removebg-preview_600x600.png?v=1671452014"
+                    },
+                    "search_title": "Size",
+                    "options":{
+                        "option1": "364 GB"
+                    },
+                    "prices":{
+                        "price1": "896.00"
+                    }
+                },
+        
+                {
+                    "id":"a13",
+                    "title": "KD DMTR Gaming Desktop PC",
+                    "brand": "KandE",
+                    "bestseller": false,
+                    "extra_add": false,
+                    "isNew": false,
+                    "in_stock": true,
+                    "product_type": "Game PCs",
+                    "category": "Power Supplies",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": "9140570251101",
+                    "about_product": "Multiple connectivity options including HDMI, USB ports & RGB fans let you connect a variety of peripherals easily. Wi-Fi Ready – Connect to the internet...",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/eco20-angle-glass-1000-removebg-preview_600x600.png?v=1671451684",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/eco20-side-open-1000-removebg-preview_600x600.png?v=1671451683",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/eco20-angle-open-1000-removebg-preview_600x600.png?v=1671451684",
+                        "main_img4": "https://gaming-workdo.myshopify.com/cdn/shop/products/es40-3080-1000-removebg-preview_600x600.png?v=1671451689",
+                        "main_img5": "https://gaming-workdo.myshopify.com/cdn/shop/products/nx2-angle-handle-1000-removebg-preview_600x600.png?v=1671451683"
+                    },
+                    "search_title": "Size",
+                    "options":{
+                        "option1": "256 GB",
+                        "option2": "364 GB"
+                    },
+                    "prices":{
+                        "price1": "865.00",
+                        "price2": "900.00"
+                    }
+                }
+            ]
+        },
+
+            
+        {
+            "Gaming_Peripherals":[
+                {
+                    "id":"a3",
+                    "title": "Nintendo Switch Lite - Turquoise",
+                    "brand": "XFX",
+                    "bestseller": true,
+                    "extra_add": false,
+                    "isNew": true,
+                    "in_stock": true,
+                    "product_type": "Console",
+                    "category": "Gaming peripherals",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": "9140570231131",
+                    "about_product": "Compatibility; Glass Screen Protector Compatible with Nintendo Switch. 9H Hardness; Tempered glass durability rated at 9H hardness to protect from everyday scratches. Case friendly; Made...",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/1-1_600x600.png?v=1671449884",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/2_77e6abc8-a52d-435d-bb07-41cd82ef40e3_600x600.png?v=1671449883",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/1-3_600x600.png?v=1671449884",
+                        "main_img4": "https://gaming-workdo.myshopify.com/cdn/shop/products/1_513b5522-4af7-4716-af84-c202cb896432_600x600.png?v=1671449884",
+                        "main_img5": "https://gaming-workdo.myshopify.com/cdn/shop/products/1-2_600x600.png?v=1671449885",
+                        "main_img6": "https://gaming-workdo.myshopify.com/cdn/shop/products/3_f1265e73-8fb2-40bc-828f-934ea04d114b_600x600.png?v=1671449883",
+                        "main_img7": "https://gaming-workdo.myshopify.com/cdn/shop/products/4_234d61a8-f4cc-4d23-9a6c-e9a3f295aa3e_600x600.png?v=1671449884",
+                        "main_img8": "https://gaming-workdo.myshopify.com/cdn/shop/files/preview_images/hqdefault_600x600.jpg?v=1683950664",
+                        "main_img9": "https://gaming-workdo.myshopify.com/cdn/shop/files/preview_images/d137bd993455498ea397242543cd0e8a.thumbnail.0000000000_600x600.jpg?v=1683954874"
+                    },
+                    "videos":{
+                        "product_video1": "https://www.youtube.com/watch?v=HuSv3iuzPOE&list=TLGGZCRAQ95ErI4xMjEwMjAyMw&ab_channel=TheSegaWorld",
+                        "product_video2": "https://www.youtube.com/watch?v=eSBFw93V3Rg&ab_channel=VintageToyMania"
+                    },
+                    "search_title": "Color",
+                    "options":{
+                        "option1": "Blue",
+                        "option2": "White",
+                        "option3": "Grey"
+                    },
+                    "prices":{
+                        "price1": "543.00",
+                        "price2": "500.00",
+                        "price3": "443.00"
+                    },
+                    "prv_prices":{
+                        "prv_price1": "700.00",
+                        "prv_price2": "680.00",
+                        "prv_price3": "615.00"
+                    }
+                },
+
+                {
+                    "id":"a7",
+                    "title": "Refurbished Xbox Series X 1TB Console",
+                    "brand": "XFX",
+                    "bestseller": false,
+                    "extra_add": false,
+                    "isNew": false,
+                    "in_stock": true,
+                    "product_type": "Console",
+                    "category": "Gaming peripherals",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": "9140560231126",
+                    "about_product": "Compatibility; Glass Screen Protector Compatible with Nintendo Switch. 9H Hardness; Tempered glass durability rated at 9H hardness to protect from everyday scratches. Case friendly; Made...",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/1_892117ef-00bc-43f7-8789-c8a6a7c180ee_600x600.png?v=1671449791",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/6430277_sd-removebg-preview_600x600.png?v=1671449790",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/3_d74c0eb2-1703-41d7-bd0d-2456c407abba_600x600.png?v=1671449790",
+                        "main_img4": "https://gaming-workdo.myshopify.com/cdn/shop/products/2_b6de6e26-4e72-4b5f-aca8-28d55a5754d4_600x600.png?v=1671449790"
+                    },
+                    "search_title": "Color",
+                    "options":{
+                        "option1": "Black",
+                        "option2": "White"
+                    },
+                    "prices":{
+                        "price1": "430.00",
+                        "price2": "400.00"   
+                    }
+                },
+                
+                {
+                    "id":"a8",
+                    "title": "HTC Vive Tracker (3.0) - PC",
+                    "brand": "XFX",
+                    "bestseller": false,
+                    "extra_add": true,
+                    "isNew": false,
+                    "in_stock": true,
+                    "product_type": "Console",
+                    "category": "Gaming peripherals",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": "9140570231161",
+                    "about_product": "Body tracking-track the physical presence of your entire body within the virtual environment. Capture full-body motions with as few as 3 trackers.Accessory tracking-enable the tracking...",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/1_098957a5-a68e-41e1-b702-95d5b5b22204_600x600.png?v=1671449774",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/2_1bee91f2-70a7-42ed-b39f-d0dfd1155854_600x600.png?v=1671449774",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/3_5a5f43ab-6e28-4370-885c-13944abc4302_600x600.png?v=1671449774",
+                        "main_img4": "https://gaming-workdo.myshopify.com/cdn/shop/products/4_0b813a80-65aa-4664-964b-686bd1fa5acb_600x600.png?v=1671449774"
+                    },
+                    "search_title": "Color",
+                    "options":{
+                        "option1": "Black"
+                    },
+                    "prices":{
+                        "price1": "560.00"
+                    },
+                    "prv_prices":{
+                        "prv_price1": "700.00"
+                    }
+                },
+        
+                {
+                    "id":"a9",
+                    "title": "VR Headset with Headphones",
+                    "brand": "XFX",
+                    "bestseller": false,
+                    "extra_add": true,
+                    "isNew": false,
+                    "in_stock": true,
+                    "product_type": "Console",
+                    "category": "Gaming peripherals",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": "1140560231148",
+                    "about_product": "40MM HD optical resin lens with Focal and IPD adjustments with FOV up to 110 provides best VR Experience.Best-in-class headphones With 3.5mm Jack and removable...",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/1_5d4b2eec-0d47-4696-bee8-9a3d1976a2e9_600x600.png?v=1671449145",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/2_ffd5afa0-583b-4a92-b8e8-d99ba52f9829_600x600.png?v=1671449145",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/3_cc585289-1679-4ad0-ae12-387a495210a5_600x600.png?v=1671449145",
+                        "main_img4": "https://gaming-workdo.myshopify.com/cdn/shop/products/4_9f3d2a0f-0994-4a52-9116-379c37f59c8e_600x600.png?v=1671449145"
+                    },
+                    "search_title": "Size",
+                    "options":{
+                        "option1": "18x11.5x11",
+                        "option2": "20x12.5x13"
+                    },
+                    "prices":{
+                        "price1": "860.00",
+                        "price2": "890.00"
+                    },
+                    "prv_prices":{
+                        "prv_price1": "900.00",
+                        "prv_price2": "930.00"
+                    }
+                }
+            ]
+        },
+            
+        {
+            "Speakers_Headphones":[
+                {
+                    "id":"a4",
+                    "title": "Cloud Alpha Gaming Headset",
+                    "brand": "HyperX",
+                    "bestseller": true,
+                    "extra_add": false,
+                    "isNew": false,
+                    "in_stock": true,
+                    "product_type": "Headset",
+                    "category": "Speakers & Headphones",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": "1140550231151",
+                    "about_product": "HyperX Dual Chamber Drivers for more distinction and less distortion. Signature Award-Winning HyperX comfort. Durable aluminum frame with an expanded headband. Detachable braided cable with...",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_cloud_alpha_black_1_main_1600x-removebg-preview_600x600.png?v=1671444553",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_cloud_alpha_black_3_front_900x-removebg-preview_600x600.png?v=1671444553",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_cloud_alpha_black_2_side_900x-removebg-preview_600x600.png?v=1671444553"
+                    },
+                    "search_title": "Color",
+                    "options":{
+                        "option1": "Black",
+                        "option2": "Red"
+                    },
+                    "prices":{
+                        "price1": "530.00",
+                        "price2": "500.00"
+                    },
+                    "prv_prices":{
+                        "prv_price1": "600.00",
+                        "prv_price2": "580.00"
+                    }
+                },
+        
+                {
+                    "id":"a5",
+                    "title": "Hyper Clutch Gaming Controller",
+                    "brand": "Sony PS5",
+                    "bestseller": true,
+                    "extra_add": false,
+                    "isNew": false,
+                    "in_stock": false,
+                    "product_type": "Remote",
+                    "category": "Speakers & Headphones",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": "9140570231162",
+                    "about_product": "Bring gaming worlds to life Feel your in-game actions and environment simulated through haptic feedback Experience varying force and tension at your fingertips with adaptive...",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_chargeplay_duo_xbox_2_angled_controller_900x-removebg-preview_600x600.png?v=1671445499",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_chargeplay_duo_xbox_3_top_900x-removebg-preview_600x600.png?v=1671445500",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_chargeplay_duo_xbox_4_angled_900x-removebg-preview_600x600.png?v=1671445500"
+                    },
+                    "search_title": "Color",
+                    "options":{
+                        "option1": "Black"
+                    },
+                    "prices":{
+                        "price1": "630.00"
+                    }
+                },
+                {
+                    "id":"a10",
+                    "title": "Rubber Keycaps",
+                    "brand": "Vulture",
+                    "bestseller": false,
+                    "extra_add": true,
+                    "isNew": false,
+                    "in_stock": true,
+                    "product_type": "Keycaps",
+                    "category": "Speakers & Headphones",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": "9140560231148",
+                    "about_product": "Our Rubber Keycaps are designed to fit any gaming keyboard with any Cherry MX Switches or any new switches that have a + under your...",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_pudding_keycaps_pbt_black_us_1_angled_renamed_3_1600x-removebg-preview_600x600.png?v=1671445666",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_rubber_keycaps_red_us_1_angled_1600x-removebg-preview_600x600.png?v=1671445666",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_pudding_keycaps_pbt_black_us_2_top_down_renamed_4_900x-removebg-preview_600x600.png?v=1671445667",
+                        "main_img4": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_pudding_keycaps_pbt_white_us_4_individual_renamed_0_300x-removebg-preview_600x600.png?v=1671445666",
+                        "main_img5": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_rubber_keycaps_red_us_2_front_900x-removebg-preview_600x600.png?v=1671445666",
+                        "main_img6": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_rubber_keycaps_red_us_3_unlit_480x480-removebg-preview_600x600.png?v=1671445666",
+                        "main_img7": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_rubber_keycaps_red_us_4_individual_480x480-removebg-preview_600x600.png?v=1671445667"
+                    },
+                    "search_title": "Color",
+                    "options":{
+                        "option1": "Green",
+                        "option2": "Red"
+                    },
+                    "prices":{
+                        "price1": "580.00",
+                        "price2": "500.00"
+                    }
+                },
+        
+                {
+                    "id":"a11",
+                    "title": "DualSense Wireless Controllers",
+                    "brand": "Sony PS5",
+                    "bestseller": false,
+                    "extra_add": false,
+                    "isNew": false,
+                    "in_stock": true,
+                    "product_type": "Remote",
+                    "category": "Speakers & Headphones",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": "1140560231142",
+                    "about_product": "Bring gaming worlds to life - a) Feel your in-game actions and environment simulated through haptic feedback2, b)Experience varying force and tension at your fingertips...",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_chargeplay_duo_ps5_1_main_1600x-removebg-preview_600x600.png?v=1671445028",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_clutch_wireless_gaming_controller_1_main_900x-removebg-preview_600x600.png?v=1671445027",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_chargeplay_duo_ps5_2_angled_controller_900x-removebg-preview_600x600.png?v=1671445027",
+                        "main_img4": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_chargeplay_duo_ps5_3_top_900x-removebg-preview_600x600.png?v=1671445028",
+                        "main_img5": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_chargeplay_duo_ps5_5_accessories_900x-removebg-preview_600x600.png?v=1671445028",
+                        "main_img6": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_clutch_wireless_gaming_controller_2_quarter_900x-removebg-preview_600x600.png?v=1671445028",
+                        "main_img7": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_clutch_wireless_gaming_controller_3_bottom_480x480-removebg-preview_600x600.png?v=1671445027",
+                        "main_img8": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_clutch_wireless_gaming_controller_5_top_clip_attached_480x480-removebg-preview_600x600.png?v=1671445029",
+                        "main_img9": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_chargeplay_duo_xbox_1_main_1600x-removebg-preview_600x600.png?v=1671445027"
+                    },
+                    "search_title": "Color",
+                    "options":{
+                        "option1": "White",
+                        "option2": "Black"
+                    },
+                    "prices":{
+                        "price1": "600.00",
+                        "price2": "646.00"
+                    },
+                    "prv_prices":{
+                        "prv_price1": "700.00",
+                        "prv_price2": "750.00"
+                    }
+                }
+            ]
+        },
+
+        {    
+            "Gaming_Monitors":[
+                {
+                    "id":"a6",
+                    "title": "Alien ware Monitor T 46",
+                    "brand": "Samsung",
+                    "bestseller": true,
+                    "extra_add": false,
+                    "isNew": false,
+                    "in_stock": true,
+                    "product_type": "Monitors",
+                    "category": "Gaming Monitors",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": "1120550231151",
+                    "about_product": "Exceptional Full HD IPS 21.5 Inch Ultra Thin Display : Enjoy immaculate image quality with 1920x1080 resolution and 178 degree wide viewing angles I Zero...",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/1_4661881d-c8c7-4d3b-962e-038344e4ac81_258x258.png?v=1671451100",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/3_5dfac41e-149d-4bbd-8a5d-6ffc16e207d4_258x258.png?v=1671451100",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/2_55e7b400-5582-4edf-8a80-cbfc6ed327a7_600x600.png?v=1671451099",
+                        "main_img4": "https://gaming-workdo.myshopify.com/cdn/shop/products/4_e72d0ae8-ac42-44e0-8222-251ef40c9c8d_600x600.png?v=1671451099"
+                    },
+                    "search_title": "Size",
+                    "options":{
+                        "option1": "32 Inches",
+                        "option2": "28 Inches"
+                    },
+                    "prices":{
+                        "price1": "850.00",
+                        "price2": "800.00"
+                    }
+                },
+
+                {
+                    "id":"a19",
+                    "title": "G-Series Curved VA Monitor",
+                    "brand": "Lenova",
+                    "bestseller": false,
+                    "extra_add": false,
+                    "isNew": false,
+                    "in_stock": true,
+                    "product_type": "Monitors",
+                    "category": "Gaming Monitors",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": "9140570231185",
+                    "about_product": "Lenovo Smart Artery Software: Self-learning software auto-adjusts display | Crosshair feature for FPS games | View Frame Rate and Timer | Create customized gaming modes.Eyesafe...",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/1_59d858e2-42a5-4b1e-8290-814441526d5d_600x600.png?v=1671450961",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/2_887fbb4d-b337-4677-ae97-f316d7fca32f_600x600.png?v=1671450962",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/11_8ff55efa-cb53-49db-a806-d5cdd3aa41c5_600x600.png?v=1671450963",
+                        "main_img4": "https://gaming-workdo.myshopify.com/cdn/shop/products/3_975484ff-5662-4080-ba93-fc04f870afd9_600x600.png?v=1671450963",
+                        "main_img5": "https://gaming-workdo.myshopify.com/cdn/shop/products/4_f36f32cf-c7e8-4e61-986a-f540bf322d9d_600x600.png?v=1671450963",
+                        "main_img6": "https://gaming-workdo.myshopify.com/cdn/shop/products/s3422dwg-cfp-00000ff090-bk-removebg-preview_600x600.png?v=1671450962",
+                        "main_img7": "https://gaming-workdo.myshopify.com/cdn/shop/products/s3422dwg-cfp-00090lp090-bk-removebg-preview_600x600.png?v=1671450963",
+                        "main_img8": "https://gaming-workdo.myshopify.com/cdn/shop/products/s3422dwg-xfp-02-bk-removebg-preview_600x600.png?v=1671450961"
+                    },
+                    "search_title": "Color",
+                    "options":{
+                        "option1": "Grey",
+                        "option2": "Blue",
+                        "option3": "Black"
+                    },
+                    "prices":{
+                        "price1": "453.00",
+                        "price2": "563.00",
+                        "price3": "580.00"
+                    },
+                    "prv_prices":{
+                        "prv_price1": "600.00",
+                        "prv_price2": "660.00",
+                        "prv_price3": "700.00"
+                    }
+                },
+        
+                {
+                    "id":"a20",
+                    "title": "Alienware Monitor D 152",
+                    "brand": "LG",
+                    "bestseller": false,
+                    "extra_add": false,
+                    "isNew": false,
+                    "in_stock": false,
+                    "product_type": "Monitors",
+                    "category": "Gaming Monitors",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": "1130550231153",
+                    "about_product": "Exceptional Full HD IPS 21.5 Inch Ultra Thin Display : Enjoy immaculate image quality with 1920x1080 resolution and 178 degree wide viewing angles I Zero...",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/dfgg_600x600.png?v=1671450816",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/2_67515386-a27c-4026-99b6-c0da8445cd6c_600x600.png?v=1671450816",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/3_d50c5341-0426-4f7c-b544-2aef937bcfa5_600x600.png?v=1671450816"
+                    },
+                    "search_title": "Size",
+                    "options":{
+                        "option1": "30 Inches"
+                    },
+                    "prices":{
+                        "price1": "752.00"
+                    },
+                    "prv_prices":{
+                        "prv_price1": "900.00"
+                    }
+                },
+        
+                {
+                    "id":"a21",
+                    "title": "Alienware Gameing Monitor T 45",
+                    "brand": "Acer",
+                    "bestseller": false,
+                    "extra_add": true,
+                    "isNew": false,
+                    "in_stock": true,
+                    "product_type": "Monitors",
+                    "category": "Gaming Monitors",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": "1130550231151",
+                    "about_product": "Exceptional Full HD IPS 21.5 Inch Ultra Thin Display : Enjoy immaculate image quality with 1920x1080 resolution and 178 degree wide viewing angles I Zero...",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/1_1b6b9b1a-54f6-4df3-99ee-8d9362e873ba_600x600.png?v=1671450610",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/3_b961f91b-29a0-460d-8528-a3a9e82e9fa7_600x600.png?v=1671450611",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/2_e88ddd82-744a-4eb6-915b-8018d2af67ae_600x600.png?v=1671450611"
+                    },
+                    "search_title": "Size",
+                    "options":{
+                        "option1": "21.5 Inches",
+                        "option2": "25.5 Inches"
+                    },
+                    "prices":{
+                        "price1": "560.00",
+                        "price2": "750.00"
+                    },
+                    "prv_prices":{
+                        "prv_price1": "800.00",
+                        "prv_price2": "880.00"
+                    }
+                }
+            ]
+        },
+
+        
+        {
+        
+            "Gaming_Cards":[
+                {
+                    "id":"a14",
+                    "title": "Radeon RX 680 GTS Graphics Card",
+                    "brand": "XFX",
+                    "bestseller": false,
+                    "extra_add": false,
+                    "isNew": false,
+                    "in_stock": false,
+                    "product_type": "Cards",
+                    "category": "Gaming Cards",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": "9140560231181",
+                    "about_product": "Microsoft Windows 10 and Microsoft DirectX 12 supported Video Memory: 8GB DDR5. The XFX Radeon RX 580 Series graphics card coupled with AMD LiquidVR technology...",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/1_fe314deb-fa4a-4f07-b719-449b7f19c108_600x600.png?v=1671447393",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/14947024_3-removebg-preview_600x600.png?v=1671447393",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/14947024_4-removebg-preview_600x600.png?v=1671447393"
+                    },
+                    "search_title": "Color",
+                    "options":{
+                        "option1": "Black"
+                    },
+                    "prices":{
+                        "price1": "356.00"
+                    },
+                    "prv_prices":{
+                        "prv_price1": "500.00"
+                    }
+                },
+        
+                {
+                    "id":"a15",
+                    "title": "Radeon™ RX 750 XT SPEEDSTER MERC",
+                    "brand": "XFX",
+                    "bestseller": false,
+                    "extra_add": true,
+                    "isNew": false,
+                    "in_stock": true,
+                    "product_type": "Cards",
+                    "category": "Gaming Cards",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": "9140560231111",
+                    "about_product": "Microsoft Windows 10 and Microsoft DirectX 12 supported Video Memory: 8GB DDR5. The XFX Radeon RX 580 Series graphics card coupled with AMD LiquidVR technology...",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/1_e7f873f1-570f-4ece-a935-3ae2f1632bf5_600x600.png?v=1671447347",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/13759183_3-removebg-preview_600x600.png?v=1671447347",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/14908268_1-removebg-preview_600x600.png?v=1671447347",
+                        "main_img4": "https://gaming-workdo.myshopify.com/cdn/shop/products/14908268_3-removebg-preview_600x600.png?v=1671447348"
+                    },
+                    "search_title": "Color",
+                    "options":{
+                        "option1": "Black",
+                        "option2": "White"
+                    },
+                    "prices":{
+                        "price1": "940.00",
+                        "price2": "900.00"
+                    },
+                    "prv_prices":{
+                        "prv_price1": "1000.00",
+                        "prv_price2": "960.00"
+                    }
+                },
+        
+                {
+                    "id":"a16",
+                    "title": "Radeon™ RX 750 XT SPEEDSTER MERC",
+                    "brand": "XFX",
+                    "bestseller": false,
+                    "extra_add": false,
+                    "isNew": false,
+                    "in_stock": false,
+                    "product_type": "Cards",
+                    "category": "Gaming Cards",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": "9140560231156",
+                    "about_product": "Microsoft Windows 10 and Microsoft DirectX 12 supported Video Memory: 8GB DDR5. The XFX Radeon RX 580 Series graphics card coupled with AMD LiquidVR technology...",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/1_a4d5097a-c593-4035-a1d9-b3016461a034_600x600.png?v=1671447295",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/14946187_2-removebg-preview_600x600.png?v=1671447295",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/14946187_4-removebg-preview_600x600.png?v=1671447295"
+                    },
+                    "search_title": "Size",
+                    "options":{
+                        "option1": "RX 750"
+                    },
+                    "prices":{
+                        "price1": "560.00"
+                    }
+                },
+        
+                {
+                    "id":"a17",
+                    "title": "Radeon RX 590 GTS Graphics Card",
+                    "brand": "XFX",
+                    "bestseller": false,
+                    "extra_add": false,
+                    "isNew": false,
+                    "in_stock": true,
+                    "product_type": "Cards",
+                    "category": "Gaming Cards",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": " 9140560231182",
+                    "about_product": "Microsoft Windows 10 and Microsoft DirectX 12 supported Video Memory: 8GB DDR5. The XFX Radeon RX 580 Series graphics card coupled with AMD LiquidVR technology...",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/1_dfcbc21e-9bcd-460a-8c3a-22376c9f3724_600x600.png?v=1671447171",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/01_600x600.png?v=1671447170",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/13731559_6-removebg-preview_600x600.png?v=1671447173",
+                        "main_img4": "https://gaming-workdo.myshopify.com/cdn/shop/products/13731559_6-removebg-preview_600x600.png?v=1671447173",
+                        "main_img5": "https://gaming-workdo.myshopify.com/cdn/shop/products/15022503_2-removebg-preview_600x600.png?v=1671447171",
+                        "main_img6": "https://gaming-workdo.myshopify.com/cdn/shop/products/15022503_4-removebg-preview_600x600.png?v=1671447171",
+                        "main_img7": "https://gaming-workdo.myshopify.com/cdn/shop/products/15030954_2-removebg-preview_600x600.png?v=1671447170",
+                        "main_img8": "https://gaming-workdo.myshopify.com/cdn/shop/products/15030954_2-removebg-preview_600x600.png?v=1671447170",
+                        "main_img9": "https://gaming-workdo.myshopify.com/cdn/shop/products/15036160_4-removebg-preview_600x600.png?v=1671447172"
+                    },
+                    "search_title": "Color",
+                    "options":{
+                        "option1": "Red",
+                        "option2": "Black"
+                    },
+                    "prices":{
+                        "price1": "890.00",
+                        "price2": "890.00"
+                    },
+                    "prv_prices":{
+                        "prv_price1": "900.00",
+                        "prv_price2": "900.00"
+                    }
+                },
+        
+                {
+                    "id":"a18",
+                    "title": "Radeon RX 120 GTS Graphics Card",
+                    "brand": "XFX",
+                    "bestseller": false,
+                    "extra_add": true,
+                    "isNew": false,
+                    "in_stock": true,
+                    "product_type": "Cards",
+                    "category": "Gaming Cards",
+                    "cont_down": false,
+                    "review": false,
+                    "sku_number": "9140560231161",
+                    "about_product": "Microsoft Windows 10 and Microsoft DirectX 12 supported Video Memory: 8GB DDR5. The XFX Radeon RX 580 Series graphics card coupled with AMD LiquidVR technology...",
+                    "images":{
+                        "main_img1": "https://gaming-workdo.myshopify.com/cdn/shop/products/1_600x600.png?v=1671446949",
+                        "main_img2": "https://gaming-workdo.myshopify.com/cdn/shop/products/13731559_4-removebg-preview_600x600.png?v=1671446949",
+                        "main_img3": "https://gaming-workdo.myshopify.com/cdn/shop/products/13731559_1-removebg-preview_600x600.png?v=1671446949",
+                        "main_img4": "https://gaming-workdo.myshopify.com/cdn/shop/products/13731559_5-removebg-preview_600x600.png?v=1671446949"
+                    },
+                    "search_title": "Size",
+                    "options":{
+                        "option1": "3 GB",
+                        "option2": "8 GB"
+                    },
+                    "prices":{
+                        "price1": "560.00",
+                        "price2": "900.00"
+                    },
+                    "prv_prices":{
+                        "prv_price1": "600.00",
+                        "prv_price2": "960.00"
+                    }
+                }
+            ]
+        }
+    ]
+}
